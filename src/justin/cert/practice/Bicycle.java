@@ -2,9 +2,9 @@ package justin.cert.practice;
 
 public class Bicycle {
 
-	public int cadence;
-	public int gear;
-	public int speed;
+	private int cadence;
+	private int gear;
+	private int speed;
 	
 	public Bicycle(int startCadence, int startSpeed, int startGear) {
 		gear = startGear;
