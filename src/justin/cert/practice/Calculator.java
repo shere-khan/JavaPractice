@@ -17,7 +17,7 @@ public class Calculator {
     public static void main(String[] args) {
         Calculator calc = new Calculator();
         
-        int result = calc.testCalc();
-        System.out.println("Result: " + result);
+        // int result = calc.testCalc();
+        // System.out.println("Result: " + result);
     }
 }
