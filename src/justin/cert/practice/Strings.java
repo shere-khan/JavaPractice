@@ -22,5 +22,11 @@ public class Strings {
 		System.out.println("\nString: " + str);
 		
 		str.replace(1, 6, "a b c");
+		
+		System.out.println("\nString: " + str);
+		
+		str.reverse();
+
+		System.out.println("\nString: " + str);
 	}
 }
