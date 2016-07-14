@@ -1,4 +1,4 @@
-package java.cert.practice;
+package justin.cert.practice;
 
 public class PrimitiveDataTypes {
 	public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package java.cert.practice;
+package justin.cert.practice;
 import java.util.Scanner;
 
 public class Factorial {
