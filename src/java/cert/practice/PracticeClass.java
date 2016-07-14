@@ -1,3 +1,4 @@
+package java.cert.practice;
 import java.util.Arrays;
 
 public class PracticeClass {
