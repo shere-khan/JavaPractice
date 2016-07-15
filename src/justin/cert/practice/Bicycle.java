@@ -6,6 +6,8 @@ public class Bicycle {
 	private int gear;
 	private int speed;
 	
+	int pedalType;
+	
 	public Bicycle(int startCadence, int startSpeed, int startGear) {
 		gear = startGear;
 		cadence = startCadence;
